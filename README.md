@@ -2,12 +2,12 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy</title>
+  <title>Política de Privacidad</title>
 </head>
 <body>
-  <h1>Privacy Policy</h1>
-  <p>This watch face does not gather, stores, nor shares user data</p>>
-  <p>This watch does not use cookies, does not track any kind of activity</p>
-  <p>For additional questions, please use this contact email:lalosvsq@gmail.com </p>
-  </body>
+  <h1>Política de Privacidad</h1>
+  <p>Esta carátula de reloj no recopila, almacena ni comparte información personal del usuario.</p>
+  <p>No utilizamos cookies, ni rastreamos ninguna actividad.</p>
+  <p>Si tienes alguna duda, puedes contactarnos al correo: tuemail@example.com</p>
+</body>
 </html>
